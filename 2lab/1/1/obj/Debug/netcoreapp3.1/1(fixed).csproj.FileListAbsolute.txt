@@ -1,0 +1,13 @@
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\bin\Debug\netcoreapp3.1\1(fixed).exe
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\bin\Debug\netcoreapp3.1\1(fixed).deps.json
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\bin\Debug\netcoreapp3.1\1(fixed).runtimeconfig.json
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\bin\Debug\netcoreapp3.1\1(fixed).runtimeconfig.dev.json
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\bin\Debug\netcoreapp3.1\1(fixed).dll
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\bin\Debug\netcoreapp3.1\1(fixed).pdb
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).csprojAssemblyReference.cache
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).csproj.CoreCompileInputs.cache
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).AssemblyInfoInputs.cache
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).AssemblyInfo.cs
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).dll
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).pdb
+C:\Ruslan\2sem\c# ucheba\2lab\1\1\obj\Debug\netcoreapp3.1\1(fixed).genruntimeconfig.cache
