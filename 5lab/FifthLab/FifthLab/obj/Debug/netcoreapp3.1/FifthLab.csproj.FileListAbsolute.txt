@@ -1,0 +1,13 @@
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.exe
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.deps.json
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.runtimeconfig.json
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.runtimeconfig.dev.json
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.dll
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\bin\Debug\netcoreapp3.1\FifthLab.pdb
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.csprojAssemblyReference.cache
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.csproj.CoreCompileInputs.cache
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.AssemblyInfoInputs.cache
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.AssemblyInfo.cs
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.dll
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.pdb
+C:\Ruslan\2sem\c# ucheba\5lab\FifthLab\FifthLab\obj\Debug\netcoreapp3.1\FifthLab.genruntimeconfig.cache
