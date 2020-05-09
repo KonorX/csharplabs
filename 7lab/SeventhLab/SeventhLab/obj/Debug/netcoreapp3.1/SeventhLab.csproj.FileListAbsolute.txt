@@ -1,0 +1,13 @@
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.exe
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.deps.json
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.runtimeconfig.json
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.runtimeconfig.dev.json
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.dll
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\bin\Debug\netcoreapp3.1\SeventhLab.pdb
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.csprojAssemblyReference.cache
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.csproj.CoreCompileInputs.cache
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.AssemblyInfoInputs.cache
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.AssemblyInfo.cs
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.dll
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.pdb
+C:\Ruslan\2sem\c# ucheba\7lab\SeventhLab\SeventhLab\obj\Debug\netcoreapp3.1\SeventhLab.genruntimeconfig.cache
