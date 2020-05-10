@@ -1,0 +1,13 @@
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.exe
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.deps.json
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.runtimeconfig.json
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.runtimeconfig.dev.json
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.dll
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.pdb
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.csprojAssemblyReference.cache
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.csproj.CoreCompileInputs.cache
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.AssemblyInfoInputs.cache
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.AssemblyInfo.cs
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.dll
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.pdb
+C:\Ruslan\2sem\c# ucheba\1lab\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.genruntimeconfig.cache
